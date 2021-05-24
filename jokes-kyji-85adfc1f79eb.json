@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jokes-kyji",
+  "private_key_id": "85adfc1f79eb05a68cf3c693201fa3cc83c79835",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCu9wEmshg24a2J\nYIRY5yePxss5dLILTZW4SZ3JqP+rn5UCnrBo7W8IU3Hn4RHZQZR8BdBK5mCGm+56\n1dsi5fcOuhgHZBcAm4YZX7GCjtJtrP5CXW4K4yUKw90gIfDw3Nz9PV5vQ+t2RDJC\nhelphjCnI/2jf7Q/40mWAa/FBc2Q9V87QIK0Nz0U6RHL6x0QNbEylN/09e3bm0St\nil+bq74xRceeU/on45ixUbvBiNAWQCYbWMcFpH75OTIa5OvxmGg5bWnjG38L76mU\nQETUzct1CIwB8/lCcv4sWDPFxVFsGPLDARo9u7JYknqGtCQ9Ge4ogH75uMk06T1A\niGNiGOHbAgMBAAECggEAVRbK+IakQAyA2M6XjqTcGJAVRVv7OoQAzB8BHZGSxWRW\nk2+ZW24dEW+DdcF/bKj4DVjGc6aWSuCKmjJm4BH2lLLr/Kwwg5sfHDftnBDZRX1c\nKepGGgVdfl7Cq13WT00aLA4sXvApEtsXlkKJwUgBYUefkmQIxQlEQC+Ry7+GuXfN\nfUs251jplPqDVu8B53bFn153nh/m9NwgzVSIFfX2nUjY0i68OXAg8buoMXMtk6v6\nYwKoJST9a4UIOwpc58OCczin1N07YBa4r45BqrZziRJPTsj78sio1ORjaHhJTDvo\nfYrlBXvyf3H8nUm7dmJRiRDcoZW7lWeY6sLJkI+QAQKBgQDVCdhza0hAdb5Zv1Ve\n2SLUXwvtwwBOUtlRYDjfSKwwpokW4YKmAzebA6lDxQ/xS9bdnbU88NGUxijqissk\n3NAMCIdpzJADCw9/K3XocGlsZBCeT6Ez4TFUbqVM7pt+8AvxDErnl1MhoCNaVy/O\nxGL9cCM/t44O7RpNTeNH9B0s6wKBgQDSP5oEmP/QjvDzBoaiyicQDdj0R1xkw9ls\nSUqlgk6d1k7DBsf1v4+BhNFijDAjnoLfgL81dNjOTs2M9bwG74Kfm1jugGZXhuYi\npehLfBoas10Ac2nRPLizyObiHFaoz0k96TDHmEOeH3dh3LPxOsnlk5cIXQHiB8hl\nhO2uzvAi0QKBgQDIqB1XmRTUohJINg8S5zIHFf8GU0VWgHJwU1E9/hUxPaqiAoYs\nF5uoRiqHynTZsbUPyBuM6sZ8eqjPQStV7SWIMABbhnGebCyMe0LzS+4ASb/dXONZ\nGiJ8hDrt21Ban36f7BQhTkbexRaHYNeGyTLzw0twGFOVe33qkhIhE6znQQKBgQCl\nH5yIBd3L36evRq3RBnF9c1K0L6OJ5CNLn5hHurqhzeGX3CiJgkRj1XtZKX7ZSrHA\ndW42vqlUBqH7FjfxPoRZc/l5f1BhZ6oxBhoVxsb9t2bQZtRxp33sfVmPte/9rqb4\nP7+20ogwlMf/DQYp7CEK9EpHIDzNV4105dyCUTZaMQKBgQCCbyr8ThmH/WYmSK6u\nqhhmDIqB7npvMFEbSZtRTr0SY09grfBTG4pJEDCpA2xIANMieuH/qzQf+Oo/efxf\nS2W7MiRbAT6FJe9q40SN0gbE+44QD9PsLcEqpyfXQbwqcH07/On1UACkqjX4Ittt\n/LotHK5acTr3p+OSguLfpMiH3g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "whatsapp@jokes-kyji.iam.gserviceaccount.com",
+  "client_id": "117472782183376734648",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/whatsapp%40jokes-kyji.iam.gserviceaccount.com"
+}
